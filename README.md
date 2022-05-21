@@ -7,7 +7,7 @@
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GreenDream0306&theme=dracula&hide_border=true" alt="GreenDream0306" />
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GreenDream0306" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream0306&theme=nightowl&hide_border=false" alt="GreenDream0306" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GreenDream0306" /> </p>
+## Stats📈 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GreenDream0306" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream0306&theme=nightowl&hide_border=false" alt="GreenDream0306" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GreenDream0306" /> </p>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
