@@ -7,7 +7,7 @@
 </p>
 <br />
 
-<img width="40%" src="https://activity-graph.herokuapp.com/graph?username=GreenDream0306&theme=dracula&hide_border=true" alt="GreenDream0306" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GreenDream0306&theme=dracula&hide_border=true" alt="GreenDream0306" />
 
 
 # replace username with your own or change theme 
