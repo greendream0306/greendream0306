@@ -13,4 +13,6 @@
 <!--END_SECTION:activity-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=greendream0306&icon=5&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GreenDream0306&label=Profile%20Views&color=11&icon=7&pretty=true" />
+</a>
