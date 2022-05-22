@@ -13,9 +13,6 @@
 
 ## Stats📈 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GreenDream0306" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=greendream0306&theme=nightowl&hide_border=false" alt="GreenDream0306" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greendream0306&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GreenDream0306" /> </p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/greendream36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="greendream36" height="30" width="40" /></a>
